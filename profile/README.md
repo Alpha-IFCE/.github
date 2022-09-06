@@ -21,4 +21,4 @@ O instagram da loja é o seguinte [@krip.store](https://www.instagram.com/krip.s
 ## Tecnologias
 
 - Front-End: [React](https://pt-br.reactjs.org/) (JavaScript)
-- Back-End: [Django](https://www.djangoproject.com/) (Python)
+- Back-End: [NodeJS](https://nodejs.org/en/) (JavaScript)
