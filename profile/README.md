@@ -1,5 +1,5 @@
 
-# Time ALPHA
+<p align="center># Time ALPHA</p>
 
 Olá, nós somos o time Alpha, estudantes do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente fazendo o sexto período do curso técnico integrado em informática.
 
