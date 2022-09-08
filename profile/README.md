@@ -1,9 +1,6 @@
+<p align="center><strong>Time Alpha</strong></p>
 
-<p align="center>
-  
-Time ALPHA
-
-  </p>
+# Time ALPHA
 Olá, nós somos o time Alpha, estudantes do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente fazendo o sexto período do curso técnico integrado em informática.
 
 Esse repositório é dedicado ao nosso projeto desenvolvido para a disciplina de Práticas Profissionais III, que será supervisionado pelo professor [Roger Moura Sarmento](https://github.com/rogermsarmento).
