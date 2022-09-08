@@ -1,4 +1,3 @@
-<p><strong>try</strong></p>
 
 # Time ALPHA
 
