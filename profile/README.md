@@ -7,11 +7,11 @@ Esse repositório é dedicado ao nosso projeto desenvolvido para a disciplina de
 
 ## Membros
 
-- Jhonny Cunha Simoes - *Back-End*
-- Daniel Sampaio Silva - *Back-End*
-- Caio Levi Mendes Costa - *Front-End*
-- Euclides Veras da Cunha - *Front-End*
-- Luiz Gabriel Ribeiro Gonzaga da Silva - *Full Stack*
+- [Jhonny Cunha Simoes](https://github.com/jhonnycs)  - *Back-End*
+- [Daniel Sampaio Silva] (https://github.com/DanielSSPP) - *Back-End*
+- [Caio Levi Mendes Costa] (https://github.com/caiolevimc) - *Front-End*
+- [Euclides Veras da Cunha] (https://github.com/EuclidesCunha0) - *Front-End*
+- [Luiz Gabriel Ribeiro Gonzaga da Silva] (https://github.com/https://github.com/eholuizao) - *Full Stack*
 
 ## Sobre o Projeto
 
