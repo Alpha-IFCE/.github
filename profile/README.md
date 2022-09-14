@@ -1,4 +1,6 @@
 # Time ALPHA
+
+## Apresentação
 Olá, nós somos o time Alpha, estudantes do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente fazendo o sexto período do curso técnico integrado em informática.
 
 Esse repositório é dedicado ao nosso projeto desenvolvido para a disciplina de Práticas Profissionais III, que será supervisionado pelo professor [Roger Moura Sarmento](https://github.com/rogermsarmento).
@@ -32,5 +34,10 @@ Instagram da loja: [@krip.store](https://www.instagram.com/krip.store/)
 
 ## Tecnologias
 
-- Front-End: [React](https://pt-br.reactjs.org/) (JavaScript)
-- Back-End: [NodeJS](https://nodejs.org/en/) (JavaScript)
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
