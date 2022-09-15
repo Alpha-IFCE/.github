@@ -24,11 +24,11 @@ A escolha desse tipo de projeto foi dada com base em um visão empreendedora, ob
 
 #### Objetivo
 
-Nosso objetivo ao fazer esse projeto é entregar às pessoas roupas no estilo já citado da melhor maneira possível. Queremos fazer um site que apresente roupas por um preço justo e que a entrega dessas roupas seja rápida.
+Nosso objetivo com a construção dessa página web é entregar às pessoas roupas no estilo já citado da melhor maneira possível. Queremos fazer um site que apresente roupas por um preço justo e que a entrega dessas roupas seja rápida.
 
 #### Motivação
 
-Nossa motivação é ter um negócio próprio com nosso estilo preferido, dentro de um site com um design simples, porém agradável.
+Nossa motivação é ter um negócio próprio com nosso estilo preferido, dentro de um site com um design simples, porém agradável. A própria escolha do projeto ser um site foi dada pela capacidade dos nossos programadores, mesmo sendo capazes de construir aplicativos, jogos e afins, a produção exclusiva para web é a que melhor utiliza explora nossas abilidades.
 
 #### Como será feito?
 
