@@ -1,6 +1,6 @@
 # Time ALPHA
 
-![É Alpha mesmo!](https://user-images.githubusercontent.com/112483118/190138208-3743eb0f-4029-4699-9687-41f126e3a7d3.png)
+<img src="https://user-images.githubusercontent.com/112483118/190138208-3743eb0f-4029-4699-9687-41f126e3a7d3.png">
 
 ## Apresentação
 Olá, nós somos o time Alpha, estudantes do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente fazendo o sexto período do curso técnico integrado em informática.
