@@ -10,6 +10,7 @@ Esse repositório é dedicado ao nosso projeto desenvolvido para a disciplina de
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## Sobre o Projeto
+<img title="Krip Store" src="https://user-images.githubusercontent.com/81436149/202262881-e085160e-d403-4c44-aea6-cdd2ea2710b0.png">
 
 #### Do que se trata e Por quê?
 
