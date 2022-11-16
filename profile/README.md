@@ -1,5 +1,3 @@
-# Time ALPHA
-
 <div align="center"> 
   <img title=" É ALPHA Mesmo!" src="https://user-images.githubusercontent.com/112483118/190138208-3743eb0f-4029-4699-9687-41f126e3a7d3.png">
 </div>
