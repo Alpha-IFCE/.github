@@ -8,11 +8,6 @@ Esse repositório é dedicado ao nosso projeto desenvolvido para a disciplina de
 ## Membros
 | [<img src="https://avatars.githubusercontent.com/u/40036396?v=4" width=115> <br><sub>Roger Moura</sub>](https://github.com/rogermsarmento) <br> <i>Orientador</i> | [<img src="https://avatars.githubusercontent.com/u/81436149?v=4" width=115> <br><sub>Luiz Gabriel</sub>](https://github.com/eholuizao) <br> <i>Developer</i> |  [<img src="https://avatars.githubusercontent.com/u/87949563?v=4" width=115> <br> <sub>Jhonny Cunha</sub>](https://github.com/jhonnycs) <br> <i>Developer</i> | [<img src="https://avatars.githubusercontent.com/u/89039501?v=4" width=115><br> <sub>Euclides Veras</sub>](https://github.com/EuclidesCunha0) <br> <i>Designer</i> | [<img src="https://avatars.githubusercontent.com/u/89220752?v=4" width=115><br><sub>Caio Levi</sub>](https://github.com/caiolevimc) <br> <i>Developer</i> | [<img src="https://avatars.githubusercontent.com/u/112483118?v=4" width=115><br><sub>Daniel Sampaio</sub>](https://github.com/DanielSSPP) <br> <i>Developer</i> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-- [Jhonny Cunha Simoes](https://github.com/jhonnycs)  - *Back-End*
-- [Daniel Sampaio Silva](https://github.com/DanielSSPP) - *Back-End*
-- [Caio Levi Mendes Costa](https://github.com/caiolevimc) - *Front-End*
-- [Euclides Veras da Cunha](https://github.com/EuclidesCunha0) - *Front-End*
-- [Luiz Gabriel Ribeiro Gonzaga da Silva](https://github.com/https://github.com/eholuizao) - *Full Stack*
 
 ## Sobre o Projeto
 
