@@ -1,6 +1,4 @@
-<div align="center"> 
-  <img title=" É ALPHA Mesmo!" src="https://user-images.githubusercontent.com/112483118/190138208-3743eb0f-4029-4699-9687-41f126e3a7d3.png">
-</div>
+<img title=" É ALPHA Mesmo!" src="https://user-images.githubusercontent.com/81436149/202253882-23603877-a995-4fff-aec8-9fe5b558ff39.png">
 
 ## Apresentação
 Olá, nós somos o time Alpha, estudantes do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), atualmente fazendo o sexto período do curso técnico integrado em informática.</p>
@@ -8,7 +6,8 @@ Olá, nós somos o time Alpha, estudantes do Instituto Federal de Educação, Ci
 Esse repositório é dedicado ao nosso projeto desenvolvido para a disciplina de Práticas Profissionais III, que será supervisionado pelo professor [Roger Moura Sarmento](https://github.com/rogermsarmento).
 
 ## Membros
-
+| [<img src="https://avatars.githubusercontent.com/u/40036396?v=4" width=115> <br><sub>Roger Moura</sub>](https://github.com/rogermsarmento) <br> <i>Orientador</i> | [<img src="https://avatars.githubusercontent.com/u/81436149?v=4" width=115> <br><sub>Luiz Gabriel</sub>](https://github.com/eholuizao) <br> <i>Developer</i> |  [<img src="https://avatars.githubusercontent.com/u/87949563?v=4" width=115> <br> <sub>Jhonny Cunha</sub>](https://github.com/jhonnycs) <br> <i>Developer</i> | [<img src="https://avatars.githubusercontent.com/u/89039501?v=4" width=115><br> <sub>Euclides Veras</sub>](https://github.com/EuclidesCunha0) <br> <i>Designer</i> | [<img src="https://avatars.githubusercontent.com/u/89220752?v=4" width=115><br><sub>Caio Levi</sub>](https://github.com/caiolevimc) <br> <i>Developer</i> | [<img src="https://avatars.githubusercontent.com/u/112483118?v=4" width=115><br><sub>Daniel Sampaio</sub>](https://github.com/DanielSSPP) <br> <i>Developer</i> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 - [Jhonny Cunha Simoes](https://github.com/jhonnycs)  - *Back-End*
 - [Daniel Sampaio Silva](https://github.com/DanielSSPP) - *Back-End*
 - [Caio Levi Mendes Costa](https://github.com/caiolevimc) - *Front-End*
